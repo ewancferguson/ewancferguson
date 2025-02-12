@@ -27,7 +27,7 @@ A recipe-sharing platform that allows users to create, edit, and share their fav
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Ewan Ferguson](https://www.linkedin.com/in/ewan-ferguson01/)
-- **Portfolio:** [My Work](https://ewaaaaannnn.github.io/Portfolio/)
+- **Portfolio:** [My Work](https://ewanferguson.org/)
 - **Email:** ewanferg01@gmail.com
 
 
