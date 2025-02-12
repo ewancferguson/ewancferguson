@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ewan Ferguson! 👋
 
-<!--
-**ewancferguson/ewancferguson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Fullstack Developer
 
-Here are some ideas to get you started:
+Hardworking and dedicated software developer with a foundation in engineering and expertise in modern web technologies. Passionate about building scalable, high-performance solutions with a focus on quality and efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** JavaScript, C#, SQL
+- **Frameworks & Tools:** Vue.js, Node.js, Express.js, REST APIs, MySQL, MongoDB, Git
+
+## 📂 My Projects
+
+### 🔹 [Keepr](https://github.com/ewancferguson/keepr)
+A fullstack application for saving and organizing images, inspired by Pinterest.
+- Vue.js frontend, C# backend, MySQL database
+- User authentication & role-based access control
+
+### 🔹 [Forge](https://github.com/ewancferguson/forge)
+A collaborative project management tool designed for efficiency and team collaboration.
+- Built with Vue.js and Node.js
+- Task management, real-time updates, and notifications
+
+### 🔹 [All Spice](https://github.com/ewancferguson/all_spice)
+A recipe-sharing platform that allows users to create, edit, and share their favorite recipes.
+- Fullstack app with user authentication and database integration
+- Features include recipe search, bookmarking, and commenting
+
+## 📫 Connect with Me
+- **LinkedIn:** [Ewan Ferguson](https://www.linkedin.com/in/ewan-ferguson01/)
+- **Portfolio:** [My Work](https://ewaaaaannnn.github.io/Portfolio/)
+- **Email:** ewanferg01@gmail.com
+
+
+---
+💡 *Always open to new opportunities and collaborations. Feel free to reach out!*
