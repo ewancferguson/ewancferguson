@@ -5,8 +5,8 @@
 Hardworking and dedicated software developer with a foundation in engineering and expertise in modern web technologies. Passionate about building scalable, high-performance solutions with a focus on quality and efficiency.
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript, C#, SQL
-- **Frameworks & Tools:** Vue.js, Node.js, Express.js, REST APIs, MySQL, MongoDB, Git
+- **Languages:** JavaScript, C#, SQL, TypeScript
+- **Frameworks & Tools:** Vue.js, React, Node.js, Express.js, REST APIs, MySQL, MongoDB, Git
 
 ## 📂 My Projects
 
