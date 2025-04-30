@@ -13,17 +13,17 @@ Hardworking and dedicated software developer with a foundation in engineering an
 ### 🔹 [Keepr](https://github.com/ewancferguson/keepr)
 A fullstack application for saving and organizing images, inspired by Pinterest.
 - Vue.js frontend, C# backend, MySQL database
-- User authentication & role-based access control
+- User authentication & privacy throughout
 
-### 🔹 [Forge](https://github.com/ewancferguson/forge)
-A collaborative project management tool designed for efficiency and team collaboration.
+### 🔹 [Tower](https://github.com/ewancferguson/tower)
+A collaborative event management tool designed for efficiency and socializing.
 - Built with Vue.js and Node.js
-- Task management, real-time updates, and notifications
+- Event Management, real-time updates, and notifications
 
 ### 🔹 [All Spice](https://github.com/ewancferguson/all_spice)
 A recipe-sharing platform that allows users to create, edit, and share their favorite recipes.
 - Fullstack app with user authentication and database integration
-- Features include recipe search, bookmarking, and commenting
+- Features include recipe creating, editing, and favoriting.
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Ewan Ferguson](https://www.linkedin.com/in/ewan-ferguson01/)
