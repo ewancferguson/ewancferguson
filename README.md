@@ -25,6 +25,11 @@ A recipe-sharing platform that allows users to create, edit, and share their fav
 - Fullstack app with user authentication and database integration
 - Features include recipe creating, editing, and favoriting.
 
+### 🔹 [Checkpoint](https://github.com/ewancferguson/checkpoint)
+A game review platform similar to Letterboxd where you can favorite and review games
+- Built with React and Typescript on the Frontend and Node.js backend
+- Features include full CRUD methodology and OOP
+
 ## 📫 Connect with Me
 - **LinkedIn:** [Ewan Ferguson](https://www.linkedin.com/in/ewan-ferguson01/)
 - **Portfolio:** [My Work](https://ewanferguson.org/)
